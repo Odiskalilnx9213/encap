@@ -1,0 +1,14 @@
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\bin\Debug\net8.0\L'encapsulation.exe
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\bin\Debug\net8.0\L'encapsulation.deps.json
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\bin\Debug\net8.0\L'encapsulation.runtimeconfig.json
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\bin\Debug\net8.0\L'encapsulation.dll
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\bin\Debug\net8.0\L'encapsulation.pdb
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.AssemblyInfoInputs.cache
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.AssemblyInfo.cs
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.dll
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\refint\L'encapsulation.dll
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.pdb
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\L'encapsulation.genruntimeconfig.cache
+C:\Users\amsde\Desktop\encap\L'encapsulation\L'encapsulation\obj\Debug\net8.0\ref\L'encapsulation.dll
